@@ -1,6 +1,6 @@
 # 03-CppPresedenciaDeOperadores
 
-- ##ETAPA #1: Analisis del problema
+- ## ETAPA 1: Analisis del problema
 
 
 
