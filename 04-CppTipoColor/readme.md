@@ -22,5 +22,12 @@
 	_Color getComplementario(const Color&)_
 
    ### IPO
+_sumarColor: ColorXColor ---> Color_
+
+_mezclarColor: ColorXColor ---> Color_
+
+_restarColor: ColorXColor ---> Color_
+
+_getComplementario: Color ---> Color_
    
    
